@@ -7,9 +7,9 @@
 **Feb 3** Agile, project ideas
 
 
-**Feb 8**
+**Feb 8** Scrum, project ideas
 
-**Feb 10**
+**Feb 10** Scrum, project ideas
 
 
 **Feb 15**
