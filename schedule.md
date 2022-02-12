@@ -7,12 +7,12 @@
 **Feb 3** Agile, project ideas
 
 
-**Feb 8** Scrum, project ideas
+**Feb 8** Brief intro to Scrum, project ideas, get teams together
 
-**Feb 10** Scrum, project ideas
+**Feb 10** Coding standards and Code Reviews, project ideas, get teams together
 
 
-**Feb 15**
+**Feb 15** Scrum, Style Guide, assignment 3 (due feb 18) 
 
 **Feb 17** 
 
