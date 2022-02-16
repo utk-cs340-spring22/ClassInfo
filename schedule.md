@@ -2,6 +2,7 @@
 
 **Jan 27** Git and GitHub overview, assignment 1 (due Feb 2)
 
+
 **Feb 1** SDLC: waterfall, assignment 2 (due Feb 8)
 
 **Feb 3** Agile, project ideas
@@ -12,9 +13,9 @@
 **Feb 10** Coding standards and Code Reviews, project ideas, get teams together
 
 
-**Feb 15** Scrum, Style Guide, assignment 3 (due feb 18) 
+**Feb 15** Style Guide, assignment 3 (due feb 21), group projects, assignment 4 
 
-**Feb 17** 
+**Feb 17** Scrum, Make sure everyone is in a group, start thinking about the product backlog
 
 
 **Feb 22**
