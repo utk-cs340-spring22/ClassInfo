@@ -63,9 +63,9 @@
 **Apr 21**
 
 
-**Apr 26** maybe Project presentations
+**Apr 26**
 
-**Apr 28** maybe Project presentations
+**Apr 28**
 
 
 **May 3** Project presentations
