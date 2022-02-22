@@ -18,12 +18,12 @@
 **Feb 17** Scrum, Make sure everyone is in a group, start thinking about the product backlog
 
 
-**Feb 22**
+**Feb 22** All groups meet in class to work on product backlog
 
-**Feb 24**
+**Feb 24** first 1/2 of groups meet
 
 
-**Mar 1**
+**Mar 1** second 1/2 of groups meet
 
 **Mar 3**
 
