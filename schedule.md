@@ -42,11 +42,23 @@
 - UTKTD
 - HistoryByYou
 
-**Mar 3**
+**Mar 3** The following groups meet for a daily scrum meeting:
+- VulnerabilitySearch 
+- GitHubGreet
+- TheKarenIndex
+- Paintapp
+- YNOT_site
+- KinectApp
 
 ---
 
-**Mar 8**
+**Mar 8** The following groups meet for a daily scrum meeting:
+- PlantryApp
+- ChocolateThunder
+- SportsOrganizer
+- ItsRaining
+- UTKTD
+- HistoryByYou
 
 **Mar 10** All groups present sprint 1 results in class. Demo working software
 
