@@ -195,7 +195,7 @@
 
 **May 3** Project presentations:
 
-- HistoryBy You
+- HistoryByYou
 
 **May 5** Project presentations
 
