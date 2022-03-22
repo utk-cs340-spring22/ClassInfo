@@ -193,7 +193,9 @@
 
 ***Note: Everyone is expected to be in attendance for all project presentations***
 
-**May 3** Project presentations
+**May 3** Project presentations:
+
+- HistoryBy You
 
 **May 5** Project presentations
 
