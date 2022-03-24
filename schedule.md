@@ -199,6 +199,8 @@
 
 **May 5** Project presentations
 
+- KarenIndex
+
 ---
 ***Week 15:***
 
@@ -214,3 +216,16 @@
 **May 18** Final 1:00-3:15 Project presentations
 
  
+
+---
+Final Presenation Dates yet to be assigned:
+- PlantryApp
+- ChocolateThunder
+- SportsOrganizer
+- ItsRaining
+- UTKTD
+- GitHubGreet
+- VulnerabilitySearch 
+- Paintapp
+- SportsOrganizer
+- ItsRaining
