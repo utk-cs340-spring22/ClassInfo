@@ -25,7 +25,7 @@
 2. Individually: In a directory in your github class project repo named sprint2, create a .md
 file named with your netid with a reflection on sprint 2. Use the template named sprint.template.md
 in this ClassInfo github page.
-3. Individually: In the same sprint2 directory, create a file named netid.commits.md (use your netid
+3. Individually: In the same sprint2 directory, create a file named netid.commits.txt (use your netid
   in place of netid. In that file, show all source code lines you committed for this sprint. Use git
   blame and filter only the lines from this sprint. Do not include binary files (like images) or files
   auto-generated from tools. Do include those files in the reflection where you list the files you worked on.
