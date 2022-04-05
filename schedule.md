@@ -1,3 +1,5 @@
+# Class Schedule (will be updated throughout the semester)
+
 ***Week 1:***
 
 **Jan 25** Intro to class and intro to software engineering processes
@@ -142,7 +144,8 @@
 ---
 ***Week 11:***
 
-**Apr 12** All groups meet in class
+**Apr 12** No Class: Groups are encouraged to meet during normal class time. The classroom is 
+available if you need a place to meet.
 
 **Apr 14** (school break)
 
