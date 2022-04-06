@@ -23,7 +23,7 @@
 
 1. As a group: Demo Working Software in class on your assigned day. Ten minutes or less per group.
 2. Individually: In a directory in your github class project repo named sprint2, create a .md
-file named with your netid with a reflection on sprint 2. Use the template named sprint.template.md
+file named with your netid with a reflection on sprint2. Use the template named sprint.template.md
 in this ClassInfo github page.
 3. Individually: In the same sprint2 directory, create a file named netid.commits.txt (use your netid
   in place of netid). In that file, show all source code lines you committed for this sprint. Use git
