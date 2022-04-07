@@ -217,7 +217,7 @@ available if you need a place to meet.
 ***Note: Everyone is expected to be in attendance for all project presentations***
 
 **May 18** Final 1:00-3:15 Project presentations
-
+- PaintApp
  
 
 ---
@@ -229,6 +229,5 @@ Final Presenation Dates yet to be assigned:
 - UTKTD
 - GitHubGreet
 - VulnerabilitySearch 
-- Paintapp
 - SportsOrganizer
 - ItsRaining
