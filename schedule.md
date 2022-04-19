@@ -203,6 +203,7 @@ available if you need a place to meet.
 **May 5** Project presentations
 
 - KarenIndex
+- ChocolateThunder
 
 ---
 ***Week 15:***
@@ -223,7 +224,7 @@ available if you need a place to meet.
 ---
 Final Presenation Dates yet to be assigned:
 - PlantryApp
-- ChocolateThunder
+
 - SportsOrganizer
 - ItsRaining
 - UTKTD
