@@ -211,6 +211,7 @@ available if you need a place to meet.
 ***Note: Everyone is expected to be in attendance for all project presentations***
 
 **May 10** Project presentations (last day of classes)
+- VulnerabilitySearch 
 
 ---
 ***Final:***
@@ -229,6 +230,6 @@ Final Presenation Dates yet to be assigned:
 - ItsRaining
 - UTKTD
 - GitHubGreet
-- VulnerabilitySearch 
+
 - SportsOrganizer
 - ItsRaining
