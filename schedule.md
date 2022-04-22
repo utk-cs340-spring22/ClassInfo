@@ -211,7 +211,8 @@ available if you need a place to meet.
 ***Note: Everyone is expected to be in attendance for all project presentations***
 
 **May 10** Project presentations (last day of classes)
-- VulnerabilitySearch 
+- VulnerabilitySearch
+- YNOT_site 
 
 ---
 ***Final:***
@@ -225,11 +226,8 @@ available if you need a place to meet.
 ---
 Final Presenation Dates yet to be assigned:
 - PlantryApp
-
 - SportsOrganizer
 - ItsRaining
 - UTKTD
 - GitHubGreet
-
 - SportsOrganizer
-- ItsRaining
