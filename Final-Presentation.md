@@ -1,0 +1,7 @@
+- # Final Presentations (The same information is on Canvas)
+- Presentations should be between 10 and 20 minutes. It is important to stay within this time constraint.
+- Each person in your group should do a part of the presentation. The time does not have to be equally allocated to each person, but each person should present something.
+- Give an overview of the product and the important features. One way you might choose to divide up the presentation is to have each person talk about the features they primarily worked on.
+- Use a few slides with the presentation (not very many because of the time constraint).
+- Give a demonstration of the project. This can be a live demo or screen shots in the slides. If you are planning a live demo, you might want to have some screenshots as a backup in case the demo does not work.
+- Have fun with this. This is your chance to show off your work. You won't be graded on your public speaking ability, so don't worry if you don't think you are a good speaker, that won't hurt your grade. Just stand up and talk about what you did and you'll get a good grade on this.
