@@ -213,6 +213,7 @@ available if you need a place to meet.
 **May 10** Project presentations (last day of classes)
 - VulnerabilitySearch
 - YNOT_site 
+- PlantryApp
 
 ---
 ***Final:***
@@ -225,7 +226,7 @@ available if you need a place to meet.
 
 ---
 Final Presenation Dates yet to be assigned:
-- PlantryApp
+
 - SportsOrganizer
 - ItsRaining
 - UTKTD
