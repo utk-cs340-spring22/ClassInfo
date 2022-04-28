@@ -199,11 +199,16 @@ available if you need a place to meet.
 **May 3** Project presentations:
 
 - HistoryByYou
+- KinnectApp
+- GitHubGreet
+- PaintApp
 
 **May 5** Project presentations
 
 - KarenIndex
 - ChocolateThunder
+- UTKTD
+- SportsOrganizer
 
 ---
 ***Week 15:***
@@ -214,21 +219,19 @@ available if you need a place to meet.
 - VulnerabilitySearch
 - YNOT_site 
 - PlantryApp
-
+- ItsRaining
 ---
 ***Final:***
 
 ***Note: Everyone is expected to be in attendance for all project presentations***
 
 **May 18** Final 1:00-3:15 Project presentations
-- PaintApp
+
  
 
 ---
 Final Presenation Dates yet to be assigned:
 
-- SportsOrganizer
-- ItsRaining
-- UTKTD
-- GitHubGreet
-- SportsOrganizer
+
+- 
+
