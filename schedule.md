@@ -223,13 +223,9 @@ available if you need a place to meet.
 ---
 ***Final:***
 
-***Note: Everyone is expected to be in attendance for all project presentations***
-
 **May 18** Final 1:00-3:15 Project presentations
 
  ***No presentations scheduled for May 18, so you do not need to come to class that day***
 
 
-
-- 
 
